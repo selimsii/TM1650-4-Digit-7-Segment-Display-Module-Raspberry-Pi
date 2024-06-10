@@ -2,7 +2,7 @@
 
 # TM1650 Raspberry Pi v1.0 için 4 Haneli 7 Seg Modül Kütüphanesi
 
-[![TR](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/tr.svg)](README_TR.md)
+[![EN](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/main/img/en.svg)](README_TR.md)
 
 ### Yazan Selim Can ÖVÜR
 
@@ -65,4 +65,4 @@ if(display.tm1650_init()){
 ```
 
 ### Not:Kullanımdan sonra Terminate() yöntemini çağırmayı unutmayın.
-### Not 2: Görüntülenebilir karakter listesi için şunu tıklayın: [![Görüntülenebilir Karakterler](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github. com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/Seven_seg_characters.png)[![Görüntülenebilir Rakamlar](https://img.shields.io/badge/Button -Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/seven_seg_numbers.png)
+### Not 2: Görüntülenebilir karakter listesi için şunu tıklayın: [![Displayable Chars](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/Seven_seg_characthers.png)[![Displayable Numerals](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/seven_seg_numbers.png)
