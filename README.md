@@ -65,6 +65,6 @@ if(display.tm1650_init()){
 ```
 
 ### Note:Do not forget to call Terminate() method after the usage
-### Note 2:For the displayable list of charachters, click : [![Displayable Chars](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/Seven_seg_characthers.png)[![Displayable Numerals](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/seven_seg_numbers.png)
+### Note 2:For the displayable list of characters,  [![Displayable Chars](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/Seven_seg_characthers.png)[![Displayable Numerals](https://img.shields.io/badge/Button-Click%20Me-brightgreen)](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/seven_seg_numbers.png)
 
 
