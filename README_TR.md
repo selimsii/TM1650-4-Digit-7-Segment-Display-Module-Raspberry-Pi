@@ -2,7 +2,7 @@
 
 # TM1650 Raspberry Pi v1.0 için 4 Haneli 7 Seg Modül Kütüphanesi
 
-[![EN](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/main/img/en.svg)](README_TR.md)
+[![EN](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/main/img/en.svg)](README.md)
 
 ### Yazan Selim Can ÖVÜR
 
