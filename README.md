@@ -2,7 +2,7 @@
 
 # TM1650 4 Digit 7 Seg Module Libray For Raspberry Pi v1.0
 
-[![TR](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/master/img/tr.svg)](README_TR.md)
+[![TR](https://github.com/selimsii/TM1650-4-Digit-8-Segment-Module-Raspberry-Pi/blob/main/img/tr.svg)](README_TR.md)
 
 ### By Selim Can ÖVÜR
 
