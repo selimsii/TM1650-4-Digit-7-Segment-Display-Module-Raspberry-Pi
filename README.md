@@ -20,10 +20,10 @@ cd repo
 ```
 
 ## Technical
-Targeted Architecture: Raspberry Pi Computers
-Tested on: Raspberry Pi 3 B+
-Language: C++
-G++ Version: g++ (Debian 12.2.0-14) 12.2.0
+Targeted Architecture: Raspberry Pi Computers<br>
+Tested on: Raspberry Pi 3 B+<br>
+Language: C++<br>
+G++ Version: g++ (Debian 12.2.0-14) 12.2.0<br>
 
 
 
