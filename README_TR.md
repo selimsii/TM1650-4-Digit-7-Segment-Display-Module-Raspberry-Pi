@@ -20,10 +20,10 @@ cd repo
 ```
 
 ## Teknik
-Hedeflenen Mimari: Raspberry Pi Bilgisayarları
-Test edilen cihaz: Raspberry Pi 3 B+
-Dil: C++
-G++ Sürümü: g++ (Debian 12.2.0-14) 12.2.0
+Hedeflenen Mimari: Raspberry Pi Bilgisayarları<br>
+Test edilen cihaz: Raspberry Pi 3 B+<br>
+Dil: C++<br>
+G++ Sürümü: g++ (Debian 12.2.0-14) 12.2.0<br>
 
 
 
