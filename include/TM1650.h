@@ -26,7 +26,7 @@
 #define	TM_DSP_ON 0x01
 #define TM_DSP_OFF 0x00
 
-#define _bitDelay 100
+#define _bitDelay 10
 
 
 constexpr int DIG_ADDR[]= {0x68,0x6a,0x6c,0x6e};
